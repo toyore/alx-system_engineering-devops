@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp//tmp/my_first_directory -forceful rmv
+rm -rf /tmp/my_first_directory
