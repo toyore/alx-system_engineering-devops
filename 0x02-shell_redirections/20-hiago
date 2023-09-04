@@ -1,2 +1,2 @@
-#!/bin/bas
-tr -d "cC"
+#!/bin/bash
+-d "cC"
